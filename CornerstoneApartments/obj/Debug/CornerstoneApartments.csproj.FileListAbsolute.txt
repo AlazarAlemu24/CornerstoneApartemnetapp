@@ -1,0 +1,11 @@
+C:\Users\Alazar Alemu\source\repos\CornerstoneApartments\CornerstoneApartments\bin\Debug\CornerstoneApartments.exe.config
+C:\Users\Alazar Alemu\source\repos\CornerstoneApartments\CornerstoneApartments\bin\Debug\CornerstoneApartments.exe
+C:\Users\Alazar Alemu\source\repos\CornerstoneApartments\CornerstoneApartments\bin\Debug\CornerstoneApartments.pdb
+C:\Users\Alazar Alemu\source\repos\CornerstoneApartments\CornerstoneApartments\obj\Debug\CornerstoneApartments.csprojAssemblyReference.cache
+C:\Users\Alazar Alemu\source\repos\CornerstoneApartments\CornerstoneApartments\obj\Debug\CornerstoneApartments.Form1.resources
+C:\Users\Alazar Alemu\source\repos\CornerstoneApartments\CornerstoneApartments\obj\Debug\CornerstoneApartments.Properties.Resources.resources
+C:\Users\Alazar Alemu\source\repos\CornerstoneApartments\CornerstoneApartments\obj\Debug\CornerstoneApartments.csproj.GenerateResource.cache
+C:\Users\Alazar Alemu\source\repos\CornerstoneApartments\CornerstoneApartments\obj\Debug\CornerstoneApartments.csproj.CoreCompileInputs.cache
+C:\Users\Alazar Alemu\source\repos\CornerstoneApartments\CornerstoneApartments\obj\Debug\CornerstoneApartments.exe
+C:\Users\Alazar Alemu\source\repos\CornerstoneApartments\CornerstoneApartments\obj\Debug\CornerstoneApartments.pdb
+C:\Users\Alazar Alemu\source\repos\CornerstoneApartments\CornerstoneApartments\obj\Debug\CornerstoneApartments.Form2.resources
